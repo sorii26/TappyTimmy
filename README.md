@@ -1,8 +1,8 @@
 # TappyTimmy
 ## Controls:
-/* Jump = Space Bar 
-Dash = Right Arrow key
-Restart = 'r' key
+* Jump = Space Bar 
+* Dash = Right Arrow key
+* Restart = 'r' key
 
 ## Goal:
 Last as long as you can without running into any obstacles.
