@@ -1,14 +1,14 @@
 # TappyTimmy
-Controls:
-Jump = Space Bar 
+## Controls:
+/* Jump = Space Bar 
 Dash = Right Arrow key
 Restart = 'r' key
 
-Goal:
+## Goal:
 Last as long as you can without running into any obstacles.
 
 
-How it was similar or differed from original One-Pager:
+## How it was similar or differed from original One-Pager:
 1. Original Concept and Inspiration
 Starting from my original one-pager, I used *Geometry Dash* as the foundation for Tappy Timmy. However, as I developed the game, I also incorporated mechanics similar to the Chrome Dinosaur game that appears when a browser has no internet connection.One of the biggest changes I made was deciding to create a continuous game rather than having a specific endpoint. This allowed me to implement a score counter that tracks how long the player survives, giving players a reason to keep playing and improve their previous scores.
 
